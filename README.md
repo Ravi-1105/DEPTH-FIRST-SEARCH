@@ -1,4 +1,3 @@
-# BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
 <h3>Name: Raviarman G S </h3>
 <h3>Register Number: 212223100044 </h3>
